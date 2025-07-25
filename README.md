@@ -1,4 +1,3 @@
-<br clear="both">
 
 <h1 align="center">Hi 👋! 'm Dasini Jayakody<br>Aspiring IT Project Manager  | Tech Enthusiast</h1>
 
