@@ -1,3 +1,4 @@
+<br clear="both">
 
 <h1 align="center">Hi 👋! 'm Dasini Jayakody<br>Aspiring IT Project Manager  | Tech Enthusiast</h1>
 
@@ -66,7 +67,7 @@
 
 ###
 
-<img align="right" height="500" src="https://res.cloudinary.com/dtjjgiitl/image/upload/q_auto:good,f_auto,fl_progressive/v1753425730/y5ckxevid0tuss18bwxu.jpg"  />
+<img align="right" height="500" src="https://i.postimg.cc/3wz5yK4t/Dasini-Nirmani-1-removebg-preview.png"  />
 
 ###
 
