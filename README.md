@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Dasini+Jayakody+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Computing+Undergraduate;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Dasini+Jayakody+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Computing+Undergraduate;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 <h3 align="center">Aspiring AI/ML Engineer | Computing Undergraduate | Tech Enthusiast</h3>
@@ -89,4 +89,5 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DasiniJayakody.DasiniJayakody&" alt="visitor badge" />
 </div>
+
 
