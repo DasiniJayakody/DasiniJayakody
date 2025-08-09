@@ -7,11 +7,11 @@
 
 ---
 
-I am an enthusiastic Computing and Information Systems undergraduate with a strong passion for IT project management. My goal is to bridge the gap between technology and business by driving innovative solutions, optimizing workflows, and leading successful projects from conception to completion.
+I am an enthusiastic Computing and Information Systems undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to design and develop intelligent, data-driven solutions that solve real-world problems and create meaningful impact.
 
-- 🔭 I’m currently building **NextGenFit**, a comprehensive fitness tracking application.
-- 🌱 I’m constantly exploring emerging IT trends, agile methodologies, and leadership strategies to enhance my skills.
-- 👯 I’m looking to collaborate on impactful, tech-driven initiatives.
+- 🔭 I’m currently building NextGenFit, a comprehensive fitness tracking application, while exploring ways to integrate AI-powered analytics for personalized health insights.
+- 🌱 I’m currently learning Python, TensorFlow, PyTorch, Scikit-learn, Pandas, and NumPy to strengthen my AI/ML expertise.
+- 👯 I’m looking to collaborate on innovative AI/ML projects, data-driven solutions, and research initiatives.
 - 📫 How to reach me: **dasinijayakody@gmail.com**
 
 ---
