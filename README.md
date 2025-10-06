@@ -1,37 +1,58 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Dasini+Jayakody+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Computing+Undergraduate;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Dasini+Jayakody+%F0%9F%91%8B;Aspiring+AI%2FML+Engineer;Computing+Undergraduate;Data+Science+Explorer" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Aspiring AI/ML Engineer | Computing Undergraduate | Tech Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Computing Undergraduate | Data Science Explorer</h3>
 
 ---
 
 I am an enthusiastic Computing and Information Systems undergraduate with a strong passion for Artificial Intelligence and Machine Learning. My goal is to design and develop intelligent, data-driven solutions that solve real-world problems and create meaningful impact.
 
-- 🔭 I’m currently building NextGenFit, a comprehensive fitness tracking application, while exploring ways to integrate AI-powered analytics for personalized health insights.
-- 🌱 I’m currently learning Python, TensorFlow, PyTorch, Scikit-learn, Pandas, and NumPy to strengthen my AI/ML expertise.
-- 👯 I’m looking to collaborate on innovative AI/ML projects, data-driven solutions, and research initiatives.
+- 🌱 I’m currently learning **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **Pandas**, and **NumPy** to strengthen my AI/ML expertise.  
+- 👯 I’m looking to collaborate on **innovative AI/ML projects**, **data-driven solutions**, and **research initiatives**.  
 - 📫 How to reach me: **dasinijayakody@gmail.com**
 
 ---
 
-### 📬 Connect with Me
+### 🌐 Explore My Work
+
+<p align="center">
+  <a href="https://dasini-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-0077B5?style=for-the-badge&logoColor=white" height="35" alt="portfolio link" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dasini-jayakody-79802625a" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/dasinijayakody" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo" />
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="hackerrank logo" />
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="kaggle logo" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="huggingface logo" />
+  </a>
+  &nbsp;
+  <a href="https://medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="medium logo" />
   </a>
   &nbsp;
   <a href="https://www.facebook.com/dasini.jayakody/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
   </a>
 </p>
 
@@ -75,13 +96,22 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 
 ---
 
-### 📊 My GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasiniJayakody&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=DasiniJayakody&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DasiniJayakody&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=DasiniJayakody&theme=dark_lover&no-frame=false&no-bg=true&margin-w=4" height="150" alt="trophy graph" />
+
+  <!-- First row: Main stats and streak -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=DasiniJayakody&show_icons=true&count_private=true&theme=dark&hide_border=false" height="150" alt="GitHub Stats" />
+    <img src="https://streak-stats.demolab.com?user=DasiniJayakody&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
+  </p>
+
+  <!-- Second row: Top languages and trophies -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DasiniJayakody&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages" />
+    <img src="https://github-profile-trophy.vercel.app?username=DasiniJayakody&theme=dark_lover&no-bg=true&margin-w=4" height="150" alt="GitHub Trophies" />
+  </p>
+
 </div>
 
 ---
@@ -89,5 +119,3 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DasiniJayakody.DasiniJayakody&" alt="visitor badge" />
 </div>
-
-
