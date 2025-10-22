@@ -17,7 +17,7 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 ### 🌐 Explore My Work
 
 <p align="center">
-  <a href="https://dasini-portfolio.vercel.app/" target="_blank">
+  <a href="https://dasini-portfolio.vercel.app/](https://dasinijayakody.github.io/dasini-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-0077B5?style=for-the-badge&logoColor=white" height="35" alt="portfolio link" />
   </a>
 </p>
