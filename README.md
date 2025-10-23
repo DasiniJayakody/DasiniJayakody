@@ -33,7 +33,7 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" height="35" alt="hackerrank logo" />
   </a>
   &nbsp;
-  <a href="https://www.kaggle.com/" target="_blank">
+  <a href="https://www.kaggle.com/dasinijayakody" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="kaggle logo" />
   </a>
   &nbsp;
