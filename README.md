@@ -37,7 +37,7 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="35" alt="kaggle logo" />
   </a>
   &nbsp;
-  <a href="https://huggingface.co/" target="_blank">
+  <a href="https://huggingface.co/DasiniJayakody" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="huggingface logo" />
   </a>
   &nbsp;
