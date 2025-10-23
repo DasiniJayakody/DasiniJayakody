@@ -15,9 +15,8 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 ---
 
 ### 🌐 Explore My Work
-
 <p align="center">
-  <a href="https://dasini-portfolio.vercel.app/](https://dasinijayakody.github.io/dasini-portfolio/" target="_blank">
+  <a href="https://dasinijayakody.github.io/dasini-portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/🌍_Visit_My_Portfolio-0077B5?style=for-the-badge&logoColor=white" height="35" alt="portfolio link" />
   </a>
 </p>
@@ -25,7 +24,6 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 ---
 
 ### 🤝 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dasini-jayakody-79802625a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo" />
@@ -59,7 +57,6 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 ---
 
 ### 💻 Tech Stack & Tools
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
@@ -97,7 +94,6 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
 ---
 
 ### 📊 GitHub Stats & Activity
-
 <div align="center">
 
   <!-- First row: Main stats and streak -->
@@ -111,7 +107,6 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DasiniJayakody&layout=compact&langs_count=6&theme=dark&hide_border=false" height="150" alt="Top Languages" />
     <img src="https://github-profile-trophy.vercel.app?username=DasiniJayakody&theme=dark_lover&no-bg=true&margin-w=4" height="150" alt="GitHub Trophies" />
   </p>
-
 </div>
 
 ---
