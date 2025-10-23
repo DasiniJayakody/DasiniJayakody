@@ -41,7 +41,7 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
     <img src="https://img.shields.io/badge/Hugging%20Face-FFD54F?style=for-the-badge&logo=huggingface&logoColor=black" height="35" alt="huggingface logo" />
   </a>
   &nbsp;
-  <a href="https://medium.com/" target="_blank">
+  <a href="https://medium.com/@dasinijayakody" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="medium logo" />
   </a>
   &nbsp;
