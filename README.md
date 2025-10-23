@@ -49,7 +49,7 @@ I am an enthusiastic Computing and Information Systems undergraduate with a stro
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="35" alt="facebook logo" />
   </a>
   &nbsp;
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://www.youtube.com/@CodeCafe1225" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube logo" />
   </a>
 </p>
