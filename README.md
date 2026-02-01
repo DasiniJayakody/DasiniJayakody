@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF5733&center=true&vCenter=true&width=900&lines=Hi+There%2C+I'm+Dasini+Jayakody+%F0%9F%91%8B;AI%2FML+Engineer+Intern+at+KPMG;Computing+%26+Information+Systems+Undergraduate;Passionate+About+AI+and+Machine+Learning" alt="Typing SVG" />
-</p>
+<div align="center">
+  
+# 👋 Hi, I'm Dasini Jayakody
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+Intern+at+KPMG+Sri+Lanka;Computing+%26+Information+Systems+Undergraduate;Passionate+About+AI+and+Machine+Learning;Data+Science+Explorer" alt="Typing SVG" />
+
+</div>
 
 <h3 align="center">🚀 AI/ML Engineer Intern at KPMG Sri Lanka | Computing Undergraduate | Data Science Explorer</h3>
 
@@ -131,6 +135,24 @@ I'm currently serving as an **AI/ML Engineer Intern at KPMG Sri Lanka**, where I
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DasiniJayakody&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DasiniJayakody&theme=dark" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasiniJayakody&layout=compact&theme=dark" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DasiniJayakody&theme=github_dark" alt="Productive Time" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DasiniJayakody&theme=github_dark" alt="Profile Details" width="98%" />
+</p>
+
+---
+
 ## 🏆 Achievements & Certifications
 
 - 🥇 **18 Professional Certifications** in AI/ML, Cloud Computing, and Data Science
@@ -228,3 +250,4 @@ class DasiniJayakody:
 <p align="center">
   <i>Open to collaborations and exciting AI/ML opportunities!</i>
 </p>
+
