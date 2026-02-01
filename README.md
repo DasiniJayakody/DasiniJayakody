@@ -8,8 +8,6 @@
 
 <h3 align="center">🚀 AI/ML Engineer Intern at KPMG Sri Lanka | Computing Undergraduate | Data Science Explorer</h3>
 
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DasiniJayakody&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/DasiniJayakody?label=Followers&style=social" alt="GitHub Followers" />
@@ -131,24 +129,6 @@ I'm currently serving as an **AI/ML Engineer Intern at KPMG Sri Lanka**, where I
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo" />
-</p>
-
----
-
-## 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasiniJayakody&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DasiniJayakody&theme=dark" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DasiniJayakody&layout=compact&theme=dark" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DasiniJayakody&theme=github_dark" alt="Productive Time" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DasiniJayakody&theme=github_dark" alt="Profile Details" width="98%" />
 </p>
 
 ---
