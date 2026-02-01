@@ -131,20 +131,6 @@ I'm currently serving as an **AI/ML Engineer Intern at KPMG Sri Lanka**, where I
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DasiniJayakody&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733&text_color=FFFFFF" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=DasiniJayakody&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=FF5733&currStreakLabel=FF5733" height="180" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DasiniJayakody&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&text_color=FFFFFF" height="180" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app?username=DasiniJayakody&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" height="180" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 - 🥇 **18 Professional Certifications** in AI/ML, Cloud Computing, and Data Science
